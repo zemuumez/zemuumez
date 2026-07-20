@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on real-world government and startup projects  <br>- 🌱 I’m learning **DevOps**, **API integrations**, and advanced **CI/CD**<br>- 💬 Ask me about anything related to **Golang**, **React**, or **Next.js**<br>- 🤝 I’m looking to collaborate on **big projects** and open-source tools<br>- 📫 Reach me through: [thisiszemichaeltefera.netlify.app](https://zemichael-tefera.vercel.app/)<br>
+- 🔭 I’m currently working on real-world government and startup projects  <br>- 🌱 I’m learning **DevOps**, **API integrations**, and advanced **CI/CD**<br>- 💬 Ask me about anything related to **Golang**, **React**, or **Next.js**<br>- 🤝 I’m looking to collaborate on **big projects** and open-source tools<br>- 📫 Reach me through: [https://zemichael-tefera.vercel.app](https://zemichael-tefera.vercel.app/)<br>
 
 
 ## 🌐 Socials:
